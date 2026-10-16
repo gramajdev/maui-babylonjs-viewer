@@ -1,0 +1,162 @@
+{
+  "generated_by": "split_glb_blender.py v2.3.1",
+  "generated_at": "2026-10-16T20:35:07",
+  "part_count": 8,
+  "location_units": "meters (Blender's raw object.location values, matching the exported .glb's node translations after the Z-up -> Y-up axis remap)",
+  "rotation_units": "radians (XYZ Euler order)",
+  "parts": [
+    {
+      "name": "Part_001",
+      "part_index": 1,
+      "home_location": [
+        -0.0944506898522377,
+        -0.11168530583381653,
+        -0.07889702171087265
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Part_002",
+      "part_index": 2,
+      "home_location": [
+        -0.09239205718040466,
+        -0.1069156751036644,
+        0.07860458642244339
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Part_003",
+      "part_index": 3,
+      "home_location": [
+        -0.0944506898522377,
+        0.054671503603458405,
+        -0.07889700680971146
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Part_004",
+      "part_index": 4,
+      "home_location": [
+        -0.09239205718040466,
+        0.0669223889708519,
+        0.07860902696847916
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Part_005",
+      "part_index": 5,
+      "home_location": [
+        0.09445071220397949,
+        -0.11168529838323593,
+        -0.07889700680971146
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Part_006",
+      "part_index": 6,
+      "home_location": [
+        0.09239208698272705,
+        -0.1069156676530838,
+        0.07860459387302399
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Part_007",
+      "part_index": 7,
+      "home_location": [
+        0.09445071220397949,
+        0.054671503603458405,
+        -0.07889700680971146
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Part_008",
+      "part_index": 8,
+      "home_location": [
+        0.09239208698272705,
+        0.0669223889708519,
+        0.07860901951789856
+      ],
+      "home_rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "home_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "skeleton_node_name": "OriginalSkeleton"
+}
