@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Plane",
+    "ModelUrl": "https://raw.githubusercontent.com/gramajdev/maui-babylonjs-viewer/main/plane.glb"
+  },
+  {
+    "Name": "Air Fryer",
+    "ModelUrl": "https://raw.githubusercontent.com/gramajdev/maui-babylonjs-viewer/main/airfryer.glb"
+  },
+  {
+    "Name": "Car",
+    "ModelUrl": "https://raw.githubusercontent.com/gramajdev/maui-babylonjs-viewer/main/car.glb"
+  },
+  {
+    "Name": "Shark",
+    "ModelUrl": "https://raw.githubusercontent.com/gramajdev/maui-babylonjs-viewer/main/shark.glb"
+  },
+  {
+    "Name": "UFO",
+    "ModelUrl": "https://raw.githubusercontent.com/gramajdev/maui-babylonjs-viewer/main/ufo.glb"
+  },
+  {
+    "Name": "Pumpkin",
+    "ModelUrl": "https://raw.githubusercontent.com/gramajdev/maui-babylonjs-viewer/main/pumpkin.glb"
+  }
+]
